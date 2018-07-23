@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DecisionTree/.idea/DecisionTree.iml" filepath="$PROJECT_DIR$/../DecisionTree/.idea/DecisionTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/KNN.iml" filepath="$PROJECT_DIR$/.idea/KNN.iml" />
     </modules>
   </component>
