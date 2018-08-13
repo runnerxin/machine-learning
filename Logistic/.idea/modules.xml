@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Ensemble_Method/.idea/Ensemble_Method.iml" filepath="$PROJECT_DIR$/../Ensemble_Method/.idea/Ensemble_Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Logistic.iml" filepath="$PROJECT_DIR$/.idea/Logistic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SVM/.idea/SVM.iml" filepath="$PROJECT_DIR$/../SVM/.idea/SVM.iml" />
     </modules>
   </component>
 </project>
