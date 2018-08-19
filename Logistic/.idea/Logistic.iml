@@ -6,6 +6,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="SVM" />
     <orderEntry type="module" module-name="Ensemble_Method" />
+    <orderEntry type="module" module-name="Regression" />
+    <orderEntry type="module" module-name="DecisionTree" />
+    <orderEntry type="module" module-name="CART" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
