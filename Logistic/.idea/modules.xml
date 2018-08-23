@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Apriori/.idea/Apriori.iml" filepath="$PROJECT_DIR$/../Apriori/.idea/Apriori.iml" />
       <module fileurl="file://$PROJECT_DIR$/../CART/.idea/CART.iml" filepath="$PROJECT_DIR$/../CART/.idea/CART.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DecisionTree/.idea/DecisionTree.iml" filepath="$PROJECT_DIR$/../DecisionTree/.idea/DecisionTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Ensemble_Method/.idea/Ensemble_Method.iml" filepath="$PROJECT_DIR$/../Ensemble_Method/.idea/Ensemble_Method.iml" />

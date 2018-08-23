@@ -10,6 +10,7 @@
     <orderEntry type="module" module-name="DecisionTree" />
     <orderEntry type="module" module-name="CART" />
     <orderEntry type="module" module-name="KMeans" />
+    <orderEntry type="module" module-name="Apriori" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
