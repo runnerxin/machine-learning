@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/../CART/.idea/CART.iml" filepath="$PROJECT_DIR$/../CART/.idea/CART.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DecisionTree/.idea/DecisionTree.iml" filepath="$PROJECT_DIR$/../DecisionTree/.idea/DecisionTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Ensemble_Method/.idea/Ensemble_Method.iml" filepath="$PROJECT_DIR$/../Ensemble_Method/.idea/Ensemble_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FP-growth/.idea/FP-growth.iml" filepath="$PROJECT_DIR$/../FP-growth/.idea/FP-growth.iml" />
       <module fileurl="file://$PROJECT_DIR$/../KMeans/.idea/KMeans.iml" filepath="$PROJECT_DIR$/../KMeans/.idea/KMeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Logistic.iml" filepath="$PROJECT_DIR$/.idea/Logistic.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Regression/.idea/Regression.iml" filepath="$PROJECT_DIR$/../Regression/.idea/Regression.iml" />
