@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/../FP-growth/.idea/FP-growth.iml" filepath="$PROJECT_DIR$/../FP-growth/.idea/FP-growth.iml" />
       <module fileurl="file://$PROJECT_DIR$/../KMeans/.idea/KMeans.iml" filepath="$PROJECT_DIR$/../KMeans/.idea/KMeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Logistic.iml" filepath="$PROJECT_DIR$/.idea/Logistic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PCA/.idea/PCA.iml" filepath="$PROJECT_DIR$/../PCA/.idea/PCA.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Regression/.idea/Regression.iml" filepath="$PROJECT_DIR$/../Regression/.idea/Regression.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SVM/.idea/SVM.iml" filepath="$PROJECT_DIR$/../SVM/.idea/SVM.iml" />
     </modules>

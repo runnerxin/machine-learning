@@ -12,6 +12,7 @@
     <orderEntry type="module" module-name="KMeans" />
     <orderEntry type="module" module-name="Apriori" />
     <orderEntry type="module" module-name="FP-growth" />
+    <orderEntry type="module" module-name="PCA" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
