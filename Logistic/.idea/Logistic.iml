@@ -13,6 +13,7 @@
     <orderEntry type="module" module-name="Apriori" />
     <orderEntry type="module" module-name="FP-growth" />
     <orderEntry type="module" module-name="PCA" />
+    <orderEntry type="module" module-name="SVD" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
