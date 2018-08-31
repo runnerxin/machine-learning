@@ -14,9 +14,11 @@
     <SUITE FILE_PATH="coverage/Logistic$my_sklearn_regtree.coverage" NAME="my_sklearn_regtree Coverage Results" MODIFIED="1534694494912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CART" />
     <SUITE FILE_PATH="coverage/Logistic$other_apriori.coverage" NAME="other_apriori Coverage Results" MODIFIED="1534954770897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Apriori" />
     <SUITE FILE_PATH="coverage/Logistic$SVM.coverage" NAME="SVM Coverage Results" MODIFIED="1533653955862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SVM" />
+    <SUITE FILE_PATH="coverage/Logistic$complete_SVM_kernel.coverage" NAME="complete_SVM_kernel Coverage Results" MODIFIED="1535732253121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SVM" />
     <SUITE FILE_PATH="coverage/Logistic$my_adaboost.coverage" NAME="my_adaboost Coverage Results" MODIFIED="1534171563809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ensemble_Method" />
     <SUITE FILE_PATH="coverage/Logistic$other.coverage" NAME="other Coverage Results" MODIFIED="1534517000495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Regression" />
     <SUITE FILE_PATH="coverage/Logistic$SVD.coverage" NAME="SVD Coverage Results" MODIFIED="1535292119007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SVD" />
+    <SUITE FILE_PATH="coverage/Logistic$complete_SVM.coverage" NAME="complete_SVM Coverage Results" MODIFIED="1535728600076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SVM" />
     <SUITE FILE_PATH="coverage/Logistic$sklearn_adaboost.coverage" NAME="sklearn_adaboost Coverage Results" MODIFIED="1534172543358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ensemble_Method" />
     <SUITE FILE_PATH="coverage/Logistic$horse_colic.coverage" NAME="horse_colic Coverage Results" MODIFIED="1533136579327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Logistic$KMeans.coverage" NAME="KMeans Coverage Results" MODIFIED="1534784511634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../KMeans" />
@@ -26,11 +28,12 @@
     <SUITE FILE_PATH="coverage/Logistic$logistic.coverage" NAME="logistic Coverage Results" MODIFIED="1533136426061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Logistic$random_forest.coverage" NAME="random_forest Coverage Results" MODIFIED="1534004319106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ensemble_Method" />
     <SUITE FILE_PATH="coverage/Logistic$PCA.coverage" NAME="PCA Coverage Results" MODIFIED="1535127924240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PCA" />
+    <SUITE FILE_PATH="coverage/Logistic$complete_SVM_no_kernel.coverage" NAME="complete_SVM_no_kernel Coverage Results" MODIFIED="1535728854577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SVM" />
     <SUITE FILE_PATH="coverage/Logistic$FP_growth.coverage" NAME="FP-growth Coverage Results" MODIFIED="1535118354116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../FP-growth" />
     <SUITE FILE_PATH="coverage/Logistic$regression.coverage" NAME="regression Coverage Results" MODIFIED="1534505204462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Regression" />
     <SUITE FILE_PATH="coverage/Logistic$other_regtree.coverage" NAME="other_regtree Coverage Results" MODIFIED="1534686433144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CART" />
     <SUITE FILE_PATH="coverage/Logistic$other_FPgrowth.coverage" NAME="other-FPgrowth Coverage Results" MODIFIED="1535117710861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../FP-growth" />
-    <SUITE FILE_PATH="coverage/Logistic$SVM_SMO_simple.coverage" NAME="SVM_SMO_simple Coverage Results" MODIFIED="1533654622389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SVM" />
+    <SUITE FILE_PATH="coverage/Logistic$SVM_SMO_simple.coverage" NAME="SVM_SMO_simple Coverage Results" MODIFIED="1535725090798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SVM" />
     <SUITE FILE_PATH="coverage/Logistic$dim_svd.coverage" NAME="dim_svd Coverage Results" MODIFIED="1535295989241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SVD" />
     <SUITE FILE_PATH="coverage/Logistic$adaboost.coverage" NAME="adaboost Coverage Results" MODIFIED="1534171463872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ensemble_Method" />
     <SUITE FILE_PATH="coverage/Logistic$apriori.coverage" NAME="apriori Coverage Results" MODIFIED="1535007508001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Apriori" />
@@ -52,11 +55,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SVD.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SVD/SVD.py">
+      <file leaf-file-name="SVM_SMO_simple.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SVM/SVM_SMO_simple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="303" column="60" lean-forward="true" selection-start-line="303" selection-start-column="4" selection-end-line="303" selection-end-column="60" />
+            <state relative-caret-position="227">
+              <caret line="106" column="61" lean-forward="true" selection-start-line="106" selection-start-column="61" selection-end-line="106" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="complete_SVM_no_kernel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SVM/complete_SVM_no_kernel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
               <folding>
                 <element signature="e#100#118#0" expanded="true" />
               </folding>
@@ -64,23 +77,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dim_svd.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../SVD/dim_svd.py">
+      <file leaf-file-name="complete_SVM_kernel.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../SVM/complete_SVM_kernel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1683">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="other_svd.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SVD/other_svd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10032">
-              <caret line="305" column="24" lean-forward="false" selection-start-line="296" selection-start-column="4" selection-end-line="305" selection-end-column="24" />
+            <state relative-caret-position="490">
+              <caret line="504" column="0" lean-forward="true" selection-start-line="504" selection-start-column="0" selection-end-line="504" selection-end-column="0" />
               <folding>
-                <element signature="e#101#131#0" expanded="true" />
+                <element signature="e#100#118#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,8 +111,6 @@
         <option value="$PROJECT_DIR$/horse_colic.py" />
         <option value="$PROJECT_DIR$/sklearn_logistic.py" />
         <option value="$PROJECT_DIR$/../SVM/SVM.py" />
-        <option value="$PROJECT_DIR$/../SVM/SVM_SMO_simple.py" />
-        <option value="$PROJECT_DIR$/../SVM/sklearn_svm.py" />
         <option value="$PROJECT_DIR$/../SVM/randomForest.py" />
         <option value="$PROJECT_DIR$/../Ensemble_Method/test.py" />
         <option value="$PROJECT_DIR$/../Ensemble_Method/random_forest.py" />
@@ -134,6 +135,12 @@
         <option value="$PROJECT_DIR$/../SVD/other_svd.py" />
         <option value="$PROJECT_DIR$/../SVD/SVD.py" />
         <option value="$PROJECT_DIR$/../SVD/dim_svd.py" />
+        <option value="$PROJECT_DIR$/../SVM/sklearn_svm.py" />
+        <option value="$PROJECT_DIR$/../SVM/SVM_SMO_simple.py" />
+        <option value="$PROJECT_DIR$/../SVM/complete_SVM.py" />
+        <option value="$PROJECT_DIR$/../SVM/complete.py" />
+        <option value="$PROJECT_DIR$/../SVM/complete_SVM_no_kernel.py" />
+        <option value="$PROJECT_DIR$/../SVM/complete_SVM_kernel.py" />
       </list>
     </option>
   </component>
@@ -144,9 +151,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="574" />
-    <option name="y" value="26" />
-    <option name="width" value="1161" />
+    <option name="x" value="-125" />
+    <option name="width" value="1492" />
     <option name="height" value="1045" />
   </component>
   <component name="ProjectView">
@@ -165,18 +171,18 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Logistic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SVD" type="462c0819:PsiDirectoryNode" />
+              <item name="SVM" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,59 +203,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dim_svd">
-    <configuration name="FP-growth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.complete_SVM_kernel">
+    <configuration name="SVM_SMO_simple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../FP-growth" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../SVM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FP-growth" />
+      <module name="SVM" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../FP-growth/FP-growth.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../SVM/SVM_SMO_simple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="PCA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="complete_SVM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PCA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../SVM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PCA" />
+      <module name="SVM" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PCA/PCA.py" />
+      <option name="SCRIPT_NAME" value="D:\Users\xtulo\Desktop\machine-learning\SVM\complete_SVM_no_kernel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="SVD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="complete_SVM_kernel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../SVD" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../SVM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="SVD" />
+      <module name="SVM" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../SVD/SVD.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../SVM/complete_SVM_kernel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="complete_SVM_no_kernel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../SVM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SVM" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../SVM/complete_SVM_no_kernel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,39 +299,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="other_pca" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PCA" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PCA" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PCA/other_pca.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.FP-growth" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PCA" />
-      <item index="2" class="java.lang.String" itemvalue="Python.other_pca" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SVD" />
-      <item index="4" class="java.lang.String" itemvalue="Python.dim_svd" />
+      <item index="0" class="java.lang.String" itemvalue="Python.dim_svd" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SVM_SMO_simple" />
+      <item index="2" class="java.lang.String" itemvalue="Python.complete_SVM" />
+      <item index="3" class="java.lang.String" itemvalue="Python.complete_SVM_no_kernel" />
+      <item index="4" class="java.lang.String" itemvalue="Python.complete_SVM_kernel" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.dim_svd" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SVD" />
-        <item index="2" class="java.lang.String" itemvalue="Python.other_pca" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PCA" />
-        <item index="4" class="java.lang.String" itemvalue="Python.FP-growth" />
+        <item index="0" class="java.lang.String" itemvalue="Python.complete_SVM_kernel" />
+        <item index="1" class="java.lang.String" itemvalue="Python.complete_SVM_no_kernel" />
+        <item index="2" class="java.lang.String" itemvalue="Python.complete_SVM" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SVM_SMO_simple" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dim_svd" />
       </list>
     </recent_temporary>
   </component>
@@ -333,9 +339,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.76731604" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3051948" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16151386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15724947" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40565032" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -365,27 +371,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/horse_colic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5544">
-          <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logistic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestSet.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HorseColicTest.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -428,35 +413,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SVM/testSet.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SVM/sklearn_svm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="59" column="30" lean-forward="true" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SVM/SVM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="233" column="15" lean-forward="false" selection-start-line="233" selection-start-column="15" selection-end-line="233" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SVM/randomForest.py" />
-    <entry file="file://$PROJECT_DIR$/../SVM/SVM_SMO_simple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="29" column="30" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="29" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Ensemble_Method/test.py" />
     <entry file="file://$PROJECT_DIR$/../Ensemble_Method/sonar-all-data.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -676,16 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SVD/other_svd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10032">
-          <caret line="305" column="24" lean-forward="false" selection-start-line="296" selection-start-column="4" selection-end-line="305" selection-end-column="24" />
-          <folding>
-            <element signature="e#101#131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PCA/PCA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
@@ -695,19 +642,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../SVD/SVD.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="303" column="60" lean-forward="true" selection-start-line="303" selection-start-column="4" selection-end-line="303" selection-end-column="60" />
+        <state relative-caret-position="33">
+          <caret line="303" column="60" lean-forward="false" selection-start-line="303" selection-start-column="4" selection-end-line="303" selection-end-column="60" />
           <folding>
-            <element signature="e#100#118#0" expanded="true" />
+            <element signature="e#100#118#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../SVD/dim_svd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1683">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="33">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SVM/SVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5510">
+          <caret line="233" column="15" lean-forward="false" selection-start-line="233" selection-start-column="15" selection-end-line="233" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SVD/other_svd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="305" column="24" lean-forward="false" selection-start-line="296" selection-start-column="4" selection-end-line="305" selection-end-column="24" />
+          <folding>
+            <element signature="e#101#131#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SVM/sklearn_svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SVM/SVM_SMO_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="106" column="61" lean-forward="true" selection-start-line="106" selection-start-column="61" selection-end-line="106" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SVM/complete_SVM_no_kernel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="e#100#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SVM/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SVM/testSetRBF.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SVM/complete_SVM_kernel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="504" column="0" lean-forward="true" selection-start-line="504" selection-start-column="0" selection-end-line="504" selection-end-column="0" />
+          <folding>
+            <element signature="e#100#118#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

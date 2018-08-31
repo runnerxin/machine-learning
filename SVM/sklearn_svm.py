@@ -31,7 +31,7 @@ def load_dataset(filename):
     return data_mat, lable_mat
 
 
-if __name__ =="__main__":
+if __name__ == "__main__":
     data_array, lable_array = load_dataset('testSet.txt')
     data_array = np.mat(data_array)
 

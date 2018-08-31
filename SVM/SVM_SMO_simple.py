@@ -75,7 +75,8 @@ def smo_svm(data_in, lable_in, c, tolerance, max_iter):
             tolerance   -- 容错率
             max_iter    -- 最大的循环次数
         Returns:
-
+            b           -- 模型的常量值
+            alphas      -- 拉格朗日乘子
         """
 
     data_mat = np.mat(data_in)
@@ -92,7 +93,11 @@ def smo_svm(data_in, lable_in, c, tolerance, max_iter):
         for i in range(m):
             # 我们预测的类别 y = w^Tx[i]+b; 其中因为 w = Σ(1~n) a[n]*lable[n]*x[n]
             # print(np.shape(data_mat))
-            f_xi = float(np.multiply(alphas, lable_mat).T * (data_mat * data_mat[i, :].T)) + b
+            # f_xi = float(np.multiply(alphas, lable_mat).T * (data_mat * data_mat[i, :].T)) + b
+
+            print(np.shape(np.multiply(alphas, lable_mat)), np.shape(data_mat))
+            f_xi = float(np.multiply(alphas, lable_mat).T * data_mat * data_mat[i, :].T) + b
+
             # 预测结果与真实结果比对，计算误差Ei
             ei = f_xi - float(lable_mat[i])
             '''
@@ -126,7 +131,7 @@ def smo_svm(data_in, lable_in, c, tolerance, max_iter):
 
                 # eta是alphas[j]的最优修改量，如果eta==0，需要退出for循环的当前迭代过程
                 eta = 2.0 * data_mat[i, :] * data_mat[j, :].T - data_mat[i, :] * data_mat[i, :].T \
-                      - data_mat[j, :] * data_mat[j, :].T
+                    - data_mat[j, :] * data_mat[j, :].T
                 if eta >= 0:
                     print("eta>=0")
                     continue
@@ -141,6 +146,8 @@ def smo_svm(data_in, lable_in, c, tolerance, max_iter):
                     continue
                 # 然后alphas[i]和alphas[j]同样进行改变，虽然改变的大小一样，但是改变的方向正好相反
                 alphas[i] += lable_mat[j] * lable_mat[i] * (alpha_j_old - alphas[j])
+                # w= Σ[1~n] ai*yi*xi => b = yj- Σ[1~n] ai*yi(xi*xj)
+                # 所以：  b1 - b = (y1-y) - Σ[1~n] yi*(a1-a)*(xi*x1)
                 b1 = b - ei - lable_mat[i] * (alphas[i] - alpha_i_old) * data_mat[i, :] * data_mat[i, :].T - \
                      lable_mat[j] * (alphas[j] - alpha_j_old) * data_mat[i, :] * data_mat[j, :].T
                 b2 = b - ej - lable_mat[i] * (alphas[i] - alpha_i_old) * data_mat[i, :] * data_mat[j, :].T - \
@@ -216,10 +223,6 @@ def plot_svm(x_mat, y_mat, ws, b, alphas):
 
 
 def test():
-    pass
-
-
-if __name__ == '__main__':
     data_array, lable_array = load_dataset('testSet.txt')
 
     # b是常量值， alphas是拉格朗日乘子
@@ -228,3 +231,7 @@ if __name__ == '__main__':
     # 画图
     ws = calc_ws(alphas, data_array, lable_array)
     plot_svm(data_array, lable_array, ws, b, alphas)
+
+
+if __name__ == '__main__':
+    test()
